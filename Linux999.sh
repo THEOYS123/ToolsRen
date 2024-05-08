@@ -25,7 +25,7 @@ echo -e "          |4.UNBANED WA          10.ELITE2         |"
 echo -e "          |5.HACK SOSMED         11.VIPER          |"
 echo -e "          |6.SPLOIT-MALICIOUS    12.SPAMM          |"
 echo -e "          |13.DDOS R             14.Tools999       |"
-echo -e "          |                                        |"
+echo -e "          |15.DDOS WEB                             |"
 echo -e "          |________________________________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -186,4 +186,17 @@ sleep 1
 git clone https://github.com/SPOKYHOZOOO/TOOLS999 
 cd TOOLS999
 bash TOOLS999.sh
+fi
+
+if [ $HOOH == 15 ]
+then
+clear
+sleep 1
+apt update
+apt upgrade
+pkg install python3 git -y
+git clone https://github.com/kdo2064/DxCyberD
+cd DxCyberD
+python3 dx.py
+python3 dx-web.py
 fi
