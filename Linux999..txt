@@ -200,3 +200,15 @@ cd DxCyberD
 python3 dx.py
 python3 dx-web.py
 fi
+
+if [ $HOOH == 16 ]
+then
+clear
+sleep 1
+pkg update
+pkg install git
+pkg install bash
+git clone https://github.com/MRHOOH/BLACKV1
+cd BLACKV1
+bash BLACKV1.sh
+fi
