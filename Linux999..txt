@@ -27,8 +27,8 @@ echo -e "          |6.SPLOIT-MALICIOUS    12.SPAMM          |"
 echo -e "          |13.DDOS R             14.Tools999       |"
 echo -e "          |15.DDOS WEB           16.Tools Black    |"
 echo -e "          |17.KARMA DDoS         18.Sensei         |"
-echo               |________________________________________|"
-echo -e "
+echo -e "          |________________________________________|"
+echo
 read -p "          PILIH MENU:" HOOH
 if [ $HOOH == 1 ]
 then
