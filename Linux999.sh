@@ -26,7 +26,7 @@ echo -e "          |5.HACK SOSMED         11.VIPER          |"
 echo -e "          |6.SPLOIT-MALICIOUS    12.SPAMM          |"
 echo -e "          |13.DDOS R             14.Tools999       |"
 echo -e "          |15.DDOS WEB           16.Tools Black    |"
-echo -e "          |17.DarkOs1nt          18.Sensi          |"
+echo -e "          |17.DarkOs1nt          18.SpamWa         |"
 echo -e "          |________________________________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -228,10 +228,10 @@ if [ $HOOH == 18 ]
 then
 clear
 sleep 1
-pkg install python2 && git -y
-pip2 install requests mechanize tqdm
-git clone https://github.com/BOT-033/Sensei
-cd Sensei
-chmod +x *
-python2. main.py
+pkg install python
+pkg install git
+python3 -m pip install requests
+git clone https://github.com/krypton-byte/SpamWa
+cd SpamWa
+python3 spam.py
 fi
