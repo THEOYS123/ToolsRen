@@ -317,6 +317,7 @@ echo -e "\u001b[32mDone installing pip!"
 echo -e "Running Tools..."
 sleep 5
 python owlsint.py
+fi
 
 if [ $HOOH == UPDATE ]
 then
