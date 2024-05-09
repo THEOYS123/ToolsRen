@@ -27,7 +27,7 @@ echo -e "          |6.SPLOIT-MALICIOUS    12.SPAMM          |"
 echo -e "          |13.DDOS R             14.Tools999       |"
 echo -e "          |15.DDOS WEB           16.Tools Black    |"
 echo -e "          |17.hack CCTV          18.SpamWa         |"
-echo -e "          |19.kamera phising     20.               |"
+echo -e "          |19.kamera phising     20.ubumtu-mod     |"
 echo -e "          |________________________________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -245,4 +245,16 @@ git clone https://github.com/jasut1n/WebCamPhishing
 cd WebCamPhishing
 chmod +x webcamphish.sh
 ./webcamphish.sh
+fi
+
+if [ $HOOH == 20 ]
+then
+clear
+sleep 1
+git clone https://github.com/Hozo999/ubuntu-mod
+cd ubuntu-mod
+chmod 777 ubuntu-mod
+bash ubuntu-mod.sh
+ubuntu
+desktop-mod.sh
 fi
