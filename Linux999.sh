@@ -1,7 +1,7 @@
 #Linux999
 #Debian
 
-sleep 1
+sleep 1                        By: Hengker EpEp☕🗿
 clear
 sleep 1
 echo -e "      ⠀⠀⠀⠀⠀⠀⠀⠀⠀              ⠀⣀⣤⣤⣤⣤⣤⣤⣀⡀"⠀⠀⠀⠀⠀⠀⠀
