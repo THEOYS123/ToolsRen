@@ -213,13 +213,3 @@ git clone https://github.com/MRHOOH/BLACKV1
 cd BLACKV1
 bash BLACKV1.sh
 fi
-
-if [ $HOOH == 17 ]
-then
-clear
-sleep 1
-Git clone https://github.com/HyukIsBack/KARMA-DDoS.git
-cd KARMA-DDoS
-pip install -r requirements.txt
-python3 main.py
-fi
