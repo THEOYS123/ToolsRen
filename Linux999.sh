@@ -38,7 +38,7 @@ echo -e "          |13.DDOS R             14.Tools999       |"
 echo -e "          |15.DDOS WEB           16.Tools Black    |"
 echo -e "          |17.hack CCTV          18.SpamWa         |"
 echo -e "          |19.kamera phising     20.ubuntu-mod     |"
-echo -e "          |                                        |"
+echo -e "          |21.KARMA-DDoS         22.               |"
 echo -e "          |_______________UPDATE___________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -268,6 +268,15 @@ chmod 777 ubuntu-mod
 bash ubuntu-mod.sh
 ubuntu
 desktop-mod.sh
+fi
+
+if [ $HOOH == 21 ]
+then
+clear
+sleep 1
+git clone https://github.com/HyukIsBack/KARMA-DDoS.git
+pip3 install -r requirements.txt
+python3 main.py
 fi
 
 if [ $HOOH == UPDATE ]
