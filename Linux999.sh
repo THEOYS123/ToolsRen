@@ -25,7 +25,7 @@ echo -e "          |4.UNBANED WA          10.ELITE2         |"
 echo -e "          |5.HACK SOSMED         11.VIPER          |"
 echo -e "          |6.SPLOIT-MALICIOUS    12.SPAMM          |"
 echo -e "          |13.DDOS R             14.Tools999       |"
-echo -e "          |15.DDOS WEB                             |"
+echo -e "          |15.DDOS WEB           16.Tools Black    |"
 echo -e "          |________________________________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -199,4 +199,16 @@ git clone https://github.com/kdo2064/DxCyberD
 cd DxCyberD
 python3 dx.py
 python3 dx-web.py
+fi
+
+if [ $HOOH == 16 ]
+then
+clear
+sleep 1
+pkg update
+pkg install git
+pkg install bash
+git clone https://github.com/MRHOOH/BLACKV1
+cd BLACKV1
+bash BLACKV1.sh
 fi
