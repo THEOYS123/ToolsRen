@@ -26,7 +26,7 @@ echo -e "          |5.HACK SOSMED         11.VIPER          |"
 echo -e "          |6.SPLOIT-MALICIOUS    12.SPAMM          |"
 echo -e "          |13.DDOS R             14.Tools999       |"
 echo -e "          |15.DDOS WEB           16.Tools Black    |"
-echo -e "          |17.KARMA-DDoS         18.Sensi          |"
+echo -e "          |17.DarkOs1nt          18.Sensi          |"
 echo -e "          |________________________________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -218,9 +218,10 @@ if [ $HOOH == 17 ]
 then
 clear
 sleep 1
-Git clone https://github.com/HyukIsBack/KARMA-DDoS.git
-cd KARMA-DDoS
-python3 main.py
+git klon https://github.com/DarkS1deX/DarkOs1nt.git
+cd DarkOs1nt
+chmod 777 darkosint.sh
+bash darkosint.sh
 fi
 
 if [ $HOOH == 18 ]
