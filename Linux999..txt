@@ -275,6 +275,7 @@ then
 clear
 sleep 1
 git clone https://github.com/HyukIsBack/KARMA-DDoS.git
+cd KARMA-DDoS
 pip3 install -r requirements.txt
 python3 main.py
 fi
