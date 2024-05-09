@@ -26,7 +26,7 @@ echo -e "          |5.HACK SOSMED         11.VIPER          |"
 echo -e "          |6.SPLOIT-MALICIOUS    12.SPAMM          |"
 echo -e "          |13.DDOS R             14.Tools999       |"
 echo -e "          |15.DDOS WEB           16.Tools Black    |"
-echo -e "          |17.DarkOs1nt          18.SpamWa         |"
+echo -e "          |17.hack CCTV          18.SpamWa         |"
 echo -e "          |________________________________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -218,10 +218,10 @@ if [ $HOOH == 17 ]
 then
 clear
 sleep 1
-git klon https://github.com/DarkS1deX/DarkOs1nt.git
-cd DarkOs1nt
-chmod 777 darkosint.sh
-bash darkosint.sh
+pkg update && pkg upgrade 
+git clone https://github.com/mohammadmahdi-termux/hackCCTV 
+cd hackCCTV 
+python3 hackcctv.py
 fi
 
 if [ $HOOH == 18 ]
