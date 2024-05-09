@@ -39,6 +39,7 @@ echo -e "          |15.DDOS WEB           16.Tools Black    |"
 echo -e "          |17.hack CCTV          18.SpamWa         |"
 echo -e "          |19.kamera phising     20.ubuntu-mod     |"
 echo -e "          |21.KARMA-DDoS         22.SPAM           |"
+echo -e "          |23.owlsint            24.               |"
 echo -e "          |_______________UPDATE___________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -291,6 +292,31 @@ git clone https://github.com/FatihArridho/brutal.git
 cd brutal
 pip3 install -r install.txt
 python3 brutal.py
+fi
+
+if [ $HOOH == 23 ]
+then
+clear
+sleep1
+pkg update && pkg upgrade -y
+apt list --upgradable 
+pkg install python -y
+Pkg install git -y
+git clone https://github.com/IccTeam/Owl-sint
+Install module
+pip install colorama
+pip2 install colorama
+pip install requests
+pip2 install requests
+pip install phonenumbers
+pip2 install phonenumbers
+pip install datetime
+pip2 install datetime
+pip3 install --upgrade instaloader 
+echo -e "\u001b[32mDone installing pip!"
+echo -e "Running Tools..."
+sleep 5
+python owlsint.py
 fi
 
 if [ $HOOH == UPDATE ]
