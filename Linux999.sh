@@ -26,7 +26,7 @@ echo -e "          |5.HACK SOSMED         11.VIPER          |"
 echo -e "          |6.SPLOIT-MALICIOUS    12.SPAMM          |"
 echo -e "          |13.DDOS R             14.Tools999       |"
 echo -e "          |15.DDOS WEB           16.Tools Black    |"
-echo -e"           |17.KARMA-DDoS                           |"
+echo -e"           |                                        |"
 echo -e "          |________________________________________|"
 echo
 read -p "          PILIH MENU:" HOOH
