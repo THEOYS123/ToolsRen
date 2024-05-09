@@ -38,7 +38,7 @@ echo -e "          |13.DDOS R             14.Tools999       |"
 echo -e "          |15.DDOS WEB           16.Tools Black    |"
 echo -e "          |17.hack CCTV          18.SpamWa         |"
 echo -e "          |19.kamera phising     20.ubuntu-mod     |"
-echo -e "          |21.KARMA-DDoS         22.               |"
+echo -e "          |21.KARMA-DDoS         22.SPAM           |"
 echo -e "          |_______________UPDATE___________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -278,6 +278,19 @@ git clone https://github.com/HyukIsBack/KARMA-DDoS.git
 cd KARMA-DDoS
 pip3 install -r requirements.txt
 python3 main.py
+fi
+
+if [ $HOOH == 22 ]
+then
+clear
+sleep1
+apt update && apt upgrade
+apt install git -y
+apt install python3-pip
+git clone https://github.com/FatihArridho/brutal.git
+cd brutal
+pip3 install -r install.txt
+python3 brutal.py
 fi
 
 if [ $HOOH == UPDATE ]
