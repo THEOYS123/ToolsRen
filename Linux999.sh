@@ -47,9 +47,9 @@ echo -e "          |31.bot WA             32.Followes tiktok|"
 echo -e "          |33.champhising        34.               |"
 echo -e "          |35.                   36.               |"
 echo -e "          |________________________________________|"
-echo -e "          |UPDATE SC TOOLS                         |"
-echo -e "          |FOLLOW AKUN TIKTOK KU                   |"
-echo -e "          |LAPORKAN BUG                            |"
+echo -e "          |UPDATE SC TOOLS       |UPDATE           |"
+echo -e "          |FOLLOW AKUN TIKTOK KU |FOLLOW           |"
+echo -e "          |LAPORKAN BUG          |LAPORKAN         |"
 echo -e "          |________________________________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -483,7 +483,7 @@ then
 clear
 sleep 1
 
-if [ $HOOH == UPDATE SC TOOLS ]
+if [ $HOOH == UPDATE ]
 then
 clear
 sleep 1
@@ -492,14 +492,14 @@ cd Tools404
 bash Linux999.sh
 fi
 
-if [ $HOOH == FOLLOW AKUN TIKTOK KU ]
+if [ $HOOH == FOLLOW ]
 then
 clear
 sleep 1
 xdg-open "https://www.tiktok.com/@sistem9999?_t=8mE62usv4Br&_r=1"
 fi
 
-if [ $HOOH == LAPORKAN BUG ]
+if [ $HOOH == LAPORKAN ]
 then
 clear
 sleep 1
