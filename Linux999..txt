@@ -40,7 +40,7 @@ echo -e "          |17.hack CCTV          18.SpamWa         |"
 echo -e "          |19.kamera phising     20.ubumtu-mod     |"
 echo -e "          |21.KARMA-DDoS         22.SPAM           |"
 echo -e "          |23.owlsint            24.Tools bajingan |"
-echo -e "          |____________UPDATE___update_____________|"
+echo -e "          |_______________|UPDATE|_________________|"
 echo
 read -p "          PILIH MENU:" HOOH
 if [ $HOOH == 1 ]
@@ -323,6 +323,8 @@ if [ $HOOH == 24 ]
 then
 clear
 sleep1
+mama BAJINGAN
+pw Gans
 apt install update
 apt install upgrade
 pip2 install termcolor
@@ -331,8 +333,7 @@ apt install toilet
 apt install git
 git clone https://github.com/DarknessCyberTeam/BAJINGANv6
 cd BAJINGANv6
-sh BAJINGAN.sh
-echo -e " name BAJINGAN pw Gans"
+sh BAJINGNGAN
 fi
 
 if [ $HOOH == UPDATE ]
