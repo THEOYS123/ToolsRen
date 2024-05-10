@@ -540,6 +540,7 @@ pkg install python2
 pkg install git
 git clone http://github.com/nfs-tech-bd/auto-deface
 cd auto-deface
+python2 auto-deface.py
 fi
 
 if [ $HOOH == 42 ]
@@ -553,6 +554,7 @@ git clone http://github.com/nfs-tech-bd/IP-FINDER
 cd IP-FINDER
 python2 ip-finder.py
 fi
+
 if [ $HOOH == 43 ]
 then
 clear
