@@ -37,6 +37,9 @@ echo -e "               |31.bot WA             32.Followes tiktok|"
 echo -e "               |33.champhising        34.spam otp       |"
 echo -e "               |35.DDOS               36.DDOS           |"
 echo -e "               |37.OSGPT              38.Virtext WA     |"
+echo -e "               |39.DDOS               40.DDOS W         |"
+echo -e "               |41.deface             42.ip finder      |"
+echo -e "               |43.                                      |"
 echo -e "               |________________________________________|"
 echo -e "               | UPDATE                                 |"
 echo -e "               | FOLLOW                                 |"
@@ -509,11 +512,53 @@ sleep 1
 xdg-open "https://www.mediafire.com/file/2gfa9gekyhcihgj/Virtex_WA_Slayer.txt/file"
 fi
 
+if [ $HOOH == 39 ]
+then
+clear
+sleep 1
+git clone https://github.com/MIISTERC/DDos-Blitz
+cd DDos-Blitz
+bash setup.sh
+fi
+
+if [ $HOOH == 40 ]
+then
+clear
+sleep 1
+git clone https://github.com/thenurhabib/warlof.git
+cd warlof
+bash setup.sh
+python3 warlof.py --help
+fi
+
+if [ $HOOH == 41 ]
+then
+clear
+pkg update
+pkg upgrade
+pkg install python2
+pkg install git
+git clone http://github.com/nfs-tech-bd/auto-deface
+cd auto-deface
+fi
+
+if [ $HOOH == 42 ]
+then
+clear
+apt update
+apt upgrade
+apt install python2
+apt install git
+git clone http://github.com/nfs-tech-bd/IP-FINDER
+cd IP-FINDER
+python2 ip-finder.py
+fi
+
 if [ $HOOH == UPDATE ]
 then
 clear
 sleep 1
-git clone https://github.com/Hengker12345/Tools404.git
+git clone https://github.com/THEOYS123/ToolsRen.git
 cd Tools404
 bash Linux999.sh
 fi
