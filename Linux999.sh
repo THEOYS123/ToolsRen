@@ -44,7 +44,6 @@ echo -e "               | LAPORKAN                               |"
 echo -e "               |________________________________________|"
 echo
 read -p "               PILIH MENU:" HOOH
-read -e "      pilih yg di menu saja, jangan pilih dia yg tidak pasti🗿"
 if [ $HOOH == 1 ]
 then
 clear
