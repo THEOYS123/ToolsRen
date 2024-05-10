@@ -350,3 +350,4 @@ clear
 sleep 1
 echo -e " kontol vs memek menang mana yaa🤔"
 echo -e " kalo bisa jawab ku jago🗿🗿🗿"
+fi
