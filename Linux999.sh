@@ -52,7 +52,7 @@ echo -e "          | FOLLOW                                 |"
 echo -e "          | LAPORKAN                               |"
 echo -e "          |________________________________________|"
 echo
-read -p "          PILIH MENU:" HOOH
+read -p "          PILIH MENU NYA TOD🗿:" HOOH
 if [ $HOOH == 1 ]
 then
 clear
