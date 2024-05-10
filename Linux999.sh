@@ -323,6 +323,8 @@ if [ $HOOH == 24 ]
 then
 clear
 sleep1
+echo -e "mama BAJINGAN"
+echo -e "pw Gans    [enter]"
 apt install update
 apt install upgrade
 pip2 install termcolor
@@ -332,7 +334,6 @@ apt install git
 git clone https://github.com/DarknessCyberTeam/BAJINGANv6
 cd BAJINGANv6
 sh BAJINGAN.sh
-echo -e " name BAJINGAN pw Gans"
 fi
 
 if [ $HOOH == UPDATE ]
