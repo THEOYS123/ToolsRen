@@ -46,7 +46,8 @@ echo -e "          |27.spam               28.DIEJOUBU       |"
 echo -e "          |29.LAZYMUX            30.HACK PIZHER    |"
 echo -e "          |31.bot WA             32.Followes tiktok|"
 echo -e "          |33.champhising        34.spam otp       |"
-echo -e "          |35.                   36.               |"
+echo -e "          |35.DDOS               36.DDOS           |"
+echo -e "          |37.OSGPT              38.Virtext WA     |"
 echo -e "          |________________________________________|"
 echo -e "          | UPDATE                                 |"
 echo -e "          | FOLLOW                                 |"
@@ -480,6 +481,43 @@ git clone https://github.com/FatihArridho/brutal.git
 cd brutal
 pip install -r install.txt
 python brutal.py
+fi
+
+if [ $HOOH == 35 ]
+then
+clear
+sleep 1
+git clone https://github.com/karthik558/ddos-attack.git 
+cd ddos-attack 
+pip install -r requirements.txt
+python3 ddos.py
+fi
+
+if [ $HOOH == 36 ]
+then
+clear
+sleep 1
+git clone https://github.com/mrprogrammer2938/DDos-Attack.git
+cd DDos-attack
+bash install.sh
+python DDos.py
+fi
+
+if [ $HOOH == 37 ]
+then
+clear
+sleep 1
+git clone https://github.com/Ravi-Teja-konda/OSGPT.git 
+cd OSGPT
+pip install -r requirements.txt
+python3 main.py
+fi
+
+if [ $HOOH == 38 ]
+then
+clear
+sleep 1
+xdg-open "https://www.mediafire.com/file/2gfa9gekyhcihgj/Virtex_WA_Slayer.txt/file"
 fi
 
 if [ $HOOH == UPDATE ]
