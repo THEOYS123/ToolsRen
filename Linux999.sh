@@ -43,6 +43,7 @@ echo -e "          |23.owlsint            24.tools bajingan |"
 echo -e "          |25.Spam               26.spam           |"
 echo -e "          |27.spam               28.DIEJOUBU       |"
 echo -e "          |29.LAZYMUX            30.HACK PIZHER    |"
+echo -e "          |31.bot WA             32.               |"
 echo -e "          |________________|UPDATE|________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -428,3 +429,15 @@ git clone https://github.com/XPH4N70M/XPHISHER.git
 cd XPHISHER 
 bash xphisher.sh
 fi
+
+if [ $HOOH == 30 ]
+then
+clear
+sleep 1
+git clone https://github.com/aydinnyunus/WhatsappBOT.git
+cd WhatsappBOT
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python WhatsappBot.py
+fi 
