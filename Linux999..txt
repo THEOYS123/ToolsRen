@@ -40,7 +40,7 @@ echo -e "          |17.hack CCTV          18.SpamWa         |"
 echo -e "          |19.kamera phising     20.ubumtu-mod     |"
 echo -e "          |21.KARMA-DDoS         22.SPAM           |"
 echo -e "          |23.owlsint            24.Tools bajingan |"
-echo -e "          |_______________UPDATE___________________|"
+echo -e "          |____________UPDATE___update_____________|"
 echo
 read -p "          PILIH MENU:" HOOH
 if [ $HOOH == 1 ]
@@ -343,3 +343,10 @@ git clone https://github.com/Hengker12345/Tools404.git
 cd Tools404
 bash Linux999.sh
 fi
+
+if [ $HOOH == update ]
+then
+clear
+sleep 1
+echo -e " kontol vs memek menang mana yaa🤔"
+echo -e " kalo bisa jawab ku jago🗿🗿🗿"
