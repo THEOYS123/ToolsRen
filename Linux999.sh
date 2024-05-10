@@ -40,9 +40,7 @@ echo -e "          |17.hack CCTV          18.SpamWa         |"
 echo -e "          |19.kamera phising     20.ubuntu-mod     |"
 echo -e "          |21.KARMA-DDoS         22.SPAM           |"
 echo -e "          |23.owlsint            24.tools bajingan |"
-echo -e "          |______________|_UPDATE_|________________|"
-echo -e "                         | update |
-echo -e "                         |________|
+echo -e "          |________________|UPDATE|________________|"
 echo
 read -p "          PILIH MENU:" HOOH
 if [ $HOOH == 1 ]
