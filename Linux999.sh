@@ -39,7 +39,7 @@ echo -e "          |15.DDOS WEB           16.Tools Black    |"
 echo -e "          |17.hack CCTV          18.SpamWa         |"
 echo -e "          |19.kamera phising     20.ubuntu-mod     |"
 echo -e "          |21.KARMA-DDoS         22.SPAM           |"
-echo -e "          |23.owlsint            24.               |"
+echo -e "          |23.owlsint            24.tools bajingan |"
 echo -e "          |_______________UPDATE___________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -317,6 +317,22 @@ echo -e "\u001b[32mDone installing pip!"
 echo -e "Running Tools..."
 sleep 5
 python owlsint.py
+fi
+
+if [ $HOOH == 23 ]
+then
+clear
+sleep1
+apt install update
+apt install upgrade
+pip2 install termcolor
+pip2 install lolcat
+apt install toilet
+apt install git
+git clone https://github.com/DarknessCyberTeam/BAJINGANv6
+cd BAJINGANv6
+sh BAJINGAN.sh
+echo -e " name BAJINGAN pw Gans"
 fi
 
 if [ $HOOH == UPDATE ]
