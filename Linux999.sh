@@ -40,6 +40,9 @@ echo -e "          |17.hack CCTV          18.SpamWa         |"
 echo -e "          |19.kamera phising     20.ubuntu-mod     |"
 echo -e "          |21.KARMA-DDoS         22.SPAM           |"
 echo -e "          |23.owlsint            24.tools bajingan |"
+echo -e "          |25.Spam               26.spam           |"
+echo -e "          |27.spam               28.DIEJOUBU       |"
+echo -e "          |29.LAZYMUX            30.               |"
 echo -e "          |________________|UPDATE|________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -345,11 +348,79 @@ cd Tools404
 bash Linux999.sh
 fi
 
-if [ $HOOH == update ]
+if [ $HOOH == 25 ]
 then
 clear
 sleep 1
-echo -e " kntl vs mmk menang mana yaa🤔"
-echo -e " kirim jawaban ke +6289519450908"
-echo -e " kalo bisa jawab lu jago🗿🗿🗿"
+apt upgrade && apt update
+apt install git
+git clone https://github.com/mrmsdv/sdvspam.git
+cd sdvspam
+sh install.sh
+sh sdv.sh
 fi
+
+if [ $HOOH == 26 ]
+then
+clear
+sleep 1
+pkg update
+pkg upgrage
+pkg install python
+pkg install python-pip
+pkg install git
+pip install requests
+pip install rich
+git clone https://github.com/TZSEC7/TZspam
+cd TZspam
+python TZsec7.py
+Spam
+fi
+
+if [ $HOOH == 27 ]
+then
+clear
+sleep 1
+cd $HOME
+apt update && apt upgrade
+pkg install bash curl wget jq
+pkg install python python-pip
+pkg install make clang
+pkg install git
+git clone https://github.com/Sxp-ID/Brutal-W4
+ cd Brutal-W4
+git pull
+make install
+./main
+fi
+
+if [ $HOOH == 28 ]
+then
+clear
+sleep 1
+pkg upgrade && pkg update
+pkg install php
+pkg install git
+gitclone https://github.com/alintamvanz/diejoubu
+cd diejoubu
+cd v1.2
+php daijobu.php
+fi
+
+if [ $HOOH == 29 ]
+then
+clear
+sleep 1
+pkg update && upgrade
+pkg install git
+pkg install python
+pkg install python2
+git clone https://github.com/Gameye98/Lazymux
+cd Lazymux
+python lazymux.py
+fi
+
+if [ $HOOH == 30 ]
+then
+clear
+sleep 1
