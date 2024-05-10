@@ -468,21 +468,6 @@ bash setup
 bash hack_camera.sh
 fi
 
-if [ $HOOH == 34 ]
-then
-clear
-sleep 1
-
-if [ $HOOH == 35 ]
-then
-clear
-sleep 1
-
-if [ $HOOH == 36 ]
-then
-clear
-sleep 1
-
 if [ $HOOH == UPDATE ]
 then
 clear
@@ -504,4 +489,4 @@ then
 clear
 sleep 1
 xdg-open "https://wa.me/6289519450908"
-fi 
+fi
