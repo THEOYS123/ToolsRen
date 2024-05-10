@@ -42,7 +42,7 @@ echo -e "          |21.KARMA-DDoS         22.SPAM           |"
 echo -e "          |23.owlsint            24.tools bajingan |"
 echo -e "          |25.Spam               26.spam           |"
 echo -e "          |27.spam               28.DIEJOUBU       |"
-echo -e "          |29.LAZYMUX            30.               |"
+echo -e "          |29.LAZYMUX            30.HACK PIZHER    |"
 echo -e "          |________________|UPDATE|________________|"
 echo
 read -p "          PILIH MENU:" HOOH
@@ -420,7 +420,14 @@ cd Lazymux
 python lazymux.py
 fi
 
-if [ $HOOH == 30 ]
-then
-clear
-sleep 1
+if [ $HOZOO = 06 ] || [ $HOZOO = 6 ]
+    then
+    clear
+    echo -e $green" Installing..."
+    sleep 1
+git clone https://github.com/XPH4N70M/XPHISHER.git
+cd XPHISHER 
+bash xphisher.sh
+  clear
+    echo -e $green"Done Installed..."
+fi
