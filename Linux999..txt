@@ -333,6 +333,7 @@ git clone https://github.com/DarknessCyberTeam/BAJINGANv6
 cd BAJINGANv6
 sh BAJINGAN.sh
 echo -e " name BAJINGAN pw Gans"
+fi
 
 if [ $HOOH == UPDATE ]
 then
