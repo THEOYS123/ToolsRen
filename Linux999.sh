@@ -43,8 +43,14 @@ echo -e "          |23.owlsint            24.tools bajingan |"
 echo -e "          |25.Spam               26.spam           |"
 echo -e "          |27.spam               28.DIEJOUBU       |"
 echo -e "          |29.LAZYMUX            30.HACK PIZHER    |"
-echo -e "          |31.bot WA             32.               |"
-echo -e "          |________________|UPDATE|________________|"
+echo -e "          |31.bot WA             32.Followes tiktok|"
+echo -e "          |33.champhising        34.               |"
+echo -e "          |35.                   36.               |"
+echo -e "          |________________________________________|"
+echo -e "          |UPDATE SC TOOLS                         |"
+echo -e "          |FOLLOW AKUN TIKTOK KU                   |"
+echo -e "          |LAPORKAN BUG                            |"
+echo -e "          |________________________________________|"
 echo
 read -p "          PILIH MENU:" HOOH
 if [ $HOOH == 1 ]
@@ -340,15 +346,6 @@ cd BAJINGANv6
 sh BAJINGAN.sh
 fi
 
-if [ $HOOH == UPDATE ]
-then
-clear
-sleep 1
-git clone https://github.com/Hengker12345/Tools404.git
-cd Tools404
-bash Linux999.sh
-fi
-
 if [ $HOOH == 25 ]
 then
 clear
@@ -440,4 +437,71 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python WhatsappBot.py
+fi 
+
+if [ $HOOH == 32 ]
+then
+clear
+sleep 1
+apt update -y && apt upgrade -y
+pkg install git python-pip
+git clone https://github.com/RozhakXD/PubTok
+cd PubTok
+python -m pip install -r requirements.txt
+uname -m
+chmod +x aarch64
+./aarch64
+fi
+
+if [ $HOOH == 33 ]
+then
+clear
+sleep 1
+apt update && apt upgrade -y
+apt install git -y
+apt install php
+apt install curl -y
+apt install wget -y
+git clone https://github.com/XPH4N70M/HACK-CAMERA.git
+cd HACK-CAMERA
+bash setup
+bash hack_camera.sh
+fi
+
+if [ $HOOH == 34 ]
+then
+clear
+sleep 1
+
+if [ $HOOH == 35 ]
+then
+clear
+sleep 1
+
+if [ $HOOH == 36 ]
+then
+clear
+sleep 1
+
+if [ $HOOH == UPDATE SC TOOLS ]
+then
+clear
+sleep 1
+git clone https://github.com/Hengker12345/Tools404.git
+cd Tools404
+bash Linux999.sh
+fi
+
+if [ $HOOH == FOLLOW AKUN TIKTOK KU ]
+then
+clear
+sleep 1
+xdg-open "https://www.tiktok.com/@sistem9999?_t=8mE62usv4Br&_r=1"
+fi
+
+if [ $HOOH == LAPORKAN BUG ]
+then
+clear
+sleep 1
+xdg-open "https://wa.me/6289519450908"
 fi 
