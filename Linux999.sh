@@ -28,12 +28,12 @@ echo
 echo -e "               By: Hengker EpEp ☕🗿"
 echo -e "           ________________________________________"
 echo -e "          |                                        |"
-echo -e "          |1.DDOS                7.BOT WA          |"
-echo -e "          |2.SPAM                8.NETHUNTER M     |"
-echo -e "          |3.BANED WA            9.TERMUX LXQT     |"
-echo -e "          |4.UNBANED WA          10.ELITE2         |"
-echo -e "          |5.HACK SOSMED         11.VIPER          |"
-echo -e "          |6.SPLOIT-MALICIOUS    12.SPAMM          |"
+echo -e "          |1.DDOS                2.BOT WA          |"
+echo -e "          |3.SPAM                4.NETHUNTER M     |"
+echo -e "          |5.BANED WA            6.TERMUX LXQT     |"
+echo -e "          |7.UNBANED WA          8.ELITE2          |"
+echo -e "          |9.HACK SOSMED         10.VIPER          |"
+echo -e "          |11.SPLOIT-MALICIOUS   12.SPAMM          |"
 echo -e "          |13.DDOS R             14.Tools999       |"
 echo -e "          |15.DDOS WEB           16.Tools Black    |"
 echo -e "          |17.hack CCTV          18.SpamWa         |"
@@ -62,7 +62,7 @@ pip3 install -r requirements.txt
 python3 anonymous-c2.py
 fi
 
-if [ $HOOH == 2 ]
+if [ $HOOH == 3 ]
 then
 clear
 sleep 1
@@ -74,21 +74,21 @@ pkg install  git
  python spam.py
 fi
 
-if [ $HOOH == 3 ]
+if [ $HOOH == 5 ]
 then
 clear
 sleep 1
 xdg-open "https://drive.google.com/file/d/152fTXoG9IEsp1unLH47Ap1mV3AvpsYYX/view?usp=drivesdk"
 fi
 
-if [ $HOOH == 4 ]
+if [ $HOOH == 7 ]
 then
 clear
 sleep 1
 xdg-open "https://drive.google.com/file/d/14V3b11fDLTNzddSKTdVZiNlDwK7JBTjD/view?usp=drivesdk"
 fi
 
-if [ $HOOH == 5 ]
+if [ $HOOH == 9 ]
 then
 clear
 sleep 1
@@ -97,7 +97,7 @@ cd zphisher
 bash zphisher.sh
 fi
 
-if [ $HOOH == 6 ]
+if [ $HOOH == 11 ]
 then
 clear
 sleep 1
@@ -110,14 +110,14 @@ pip2 install -r requirements.txt
 python2 malicious.py
 fi
 
-if [ $HOOH == 7 ]
+if [ $HOOH == 2 ]
 then
 clear
 sleep 1
 xdg-open "https://www.mediafire.com/file/f52nygbxa8kb580/node_modules.zip/file"
 fi
 
-if [ $HOOH == 8 ]
+if [ $HOOH == 4 ]
 then
 clear
 sleep 1
@@ -130,7 +130,7 @@ chmod +x install-nethunter-modified
 ./install-nethunter-modified
 fi
 
-if [ $HOOH == 9 ]
+if [ $HOOH == 6 ]
 then
 clear
 sleep 1
@@ -143,7 +143,7 @@ bash install-desktop-lxqt.sh
 start-desktop
 fi
 
-if [ $HOOH == 10 ]
+if [ $HOOH == 8 ]
 then
 clear
 sleep 1
@@ -156,7 +156,7 @@ pip install -r requirements.txt
 python run.py
 fi
 
-if [ $HOOH == 11 ]
+if [ $HOOH == 10 ]
 then
 clear
 sleep 1
@@ -430,7 +430,7 @@ cd XPHISHER
 bash xphisher.sh
 fi
 
-if [ $HOOH == 30 ]
+if [ $HOOH == 31 ]
 then
 clear
 sleep 1
