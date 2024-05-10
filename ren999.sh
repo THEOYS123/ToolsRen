@@ -574,7 +574,7 @@ clear
 sleep 1
 git clone https://github.com/THEOYS123/ToolsRen.git
 cd Tools404
-bash Linux999.sh
+bash ren999.sh
 fi
 
 if [ $HOOH == FOLLOW ]
