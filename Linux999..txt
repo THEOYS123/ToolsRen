@@ -349,5 +349,6 @@ then
 clear
 sleep 1
 echo -e " kontol vs memek menang mana yaa🤔"
-echo -e " kalo bisa jawab ku jago🗿🗿🗿"
+echo -e " kirim jawaban ke +6289519450908"
+echo -e " kalo bisa jawab lu jago🗿🗿🗿"
 fi
