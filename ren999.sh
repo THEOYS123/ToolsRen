@@ -39,7 +39,7 @@ echo -e "               |35.DDOS               36.DDOS           |"
 echo -e "               |37.OSGPT              38.Virtext WA     |"
 echo -e "               |39.DDOS               40.DDOS W         |"
 echo -e "               |41.deface             42.ip finder      |"
-echo -e "               |43.                   44.               |"
+echo -e "               |43.NETHUNTER          44.               |"
 echo -e "               |________________________________________|"
 echo -e "               | UPDATE                                 |"
 echo -e "               | FOLLOW                                 |"
@@ -552,6 +552,18 @@ apt install git
 git clone http://github.com/nfs-tech-bd/IP-FINDER
 cd IP-FINDER
 python2 ip-finder.py
+fi
+if [ $HOOH == 43 ]
+then
+clear
+termux-setup-storage
+pkg update
+pkg upgrade
+pkg install git
+pkg install wget
+git clone https://github.com/Hozo999/NETHUNTER
+cd NETHUNTER
+bash NETHUNTER.sh
 fi
 
 if [ $HOOH == UPDATE ]
