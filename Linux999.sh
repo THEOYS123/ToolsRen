@@ -44,7 +44,7 @@ echo -e "          |25.Spam               26.spam           |"
 echo -e "          |27.spam               28.DIEJOUBU       |"
 echo -e "          |29.LAZYMUX            30.HACK PIZHER    |"
 echo -e "          |31.bot WA             32.Followes tiktok|"
-echo -e "          |33.champhising        34.               |"
+echo -e "          |33.champhising        34.spam otp       |"
 echo -e "          |35.                   36.               |"
 echo -e "          |________________________________________|"
 echo -e "          | UPDATE                                 |"
@@ -466,6 +466,19 @@ git clone https://github.com/XPH4N70M/HACK-CAMERA.git
 cd HACK-CAMERA
 bash setup
 bash hack_camera.sh
+fi
+
+if [ $HOOH == 34 ]
+then
+clear
+sleep 1
+apt update -y && apt upgrade -y
+apt install git -y
+apt install python -y
+git clone https://github.com/FatihArridho/brutal.git
+cd brutal
+pip install -r install.txt
+python brutal.py
 fi
 
 if [ $HOOH == UPDATE ]
