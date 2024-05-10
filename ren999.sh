@@ -1,5 +1,10 @@
 #Linux999
 #Debian
+#MauNgapainGblk?
+#DiRecodeGakBakalJadiinLuMastah
+#DiGantiAuthorGakBakalJadiinLuMaster
+#MikirMakeOtakGblk
+#KontolKaloMauReedit/Recode 
 
 sleep 1
 clear
@@ -43,7 +48,7 @@ echo -e "               |43.NETHUNTER          44.zefbot         |"
 echo -e "               |________________________________________|"
 echo -e "               | UPDATE                                 |"
 echo -e "               | FOLLOW                                 |"
-echo -e "               | LAPORKAN                               |"
+echo -e "               | LAPORKAN BUG                           |"
 echo -e "               |________________________________________|"
 echo
 read -p "               PILIH MENU:" HOOH
@@ -568,7 +573,7 @@ cd NETHUNTER
 bash NETHUNTER.sh
 fi
 
-if [ $HOOH == 43 ]
+if [ $HOOH == 44 ]
 then
 clear
 pkg upgrade && pkg update
@@ -585,7 +590,7 @@ then
 clear
 sleep 1
 git clone https://github.com/THEOYS123/ToolsRen.git
-cd Tools404
+cd ToolsRen
 bash ren999.sh
 fi
 
@@ -599,7 +604,7 @@ echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK AKU☺☺☺"
 echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK AKU☺☺☺"
 fi
 
-if [ $HOOH == LAPORKAN ]
+if [ $HOOH == LAPORKAN BUG ]
 then
 clear
 sleep 1
