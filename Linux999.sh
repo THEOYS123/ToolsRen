@@ -420,14 +420,11 @@ cd Lazymux
 python lazymux.py
 fi
 
-if [ $HOZOO = 06 ] || [ $HOZOO = 6 ]
-    then
-    clear
-    echo -e $green" Installing..."
-    sleep 1
+if [ $HOOH == 30 ]
+then
+clear
+sleep 1
 git clone https://github.com/XPH4N70M/XPHISHER.git
 cd XPHISHER 
 bash xphisher.sh
-  clear
-    echo -e $green"Done Installed..."
 fi
