@@ -482,6 +482,9 @@ then
 clear
 sleep 1
 xdg-open "https://www.tiktok.com/@sistem9999?_t=8mE62usv4Br&_r=1"
+echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK AKU☺☺☺"
+echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK AKU☺☺☺"
+echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK AKU☺☺☺"
 fi
 
 if [ $HOOH == LAPORKAN ]
