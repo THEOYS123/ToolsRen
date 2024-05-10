@@ -47,9 +47,9 @@ echo -e "          |31.bot WA             32.Followes tiktok|"
 echo -e "          |33.champhising        34.               |"
 echo -e "          |35.                   36.               |"
 echo -e "          |________________________________________|"
-echo -e "          |UPDATE                                  |"
-echo -e "          |FOLLOW                                  |"
-echo -e "          |LAPORKAN                                |"
+echo -e "          | UPDATE                                 |"
+echo -e "          | FOLLOW                                 |"
+echo -e "          | LAPORKAN                               |"
 echo -e "          |________________________________________|"
 echo
 read -p "          PILIH MENU:" HOOH
