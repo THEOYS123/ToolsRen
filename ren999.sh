@@ -39,7 +39,7 @@ echo -e "               |35.DDOS               36.DDOS           |"
 echo -e "               |37.OSGPT              38.Virtext WA     |"
 echo -e "               |39.DDOS               40.DDOS W         |"
 echo -e "               |41.deface             42.ip finder      |"
-echo -e "               |43.NETHUNTER          44.               |"
+echo -e "               |43.NETHUNTER          44.zefbot         |"
 echo -e "               |________________________________________|"
 echo -e "               | UPDATE                                 |"
 echo -e "               | FOLLOW                                 |"
@@ -566,6 +566,18 @@ pkg install wget
 git clone https://github.com/Hozo999/NETHUNTER
 cd NETHUNTER
 bash NETHUNTER.sh
+fi
+
+if [ $HOOH == 43 ]
+then
+clear
+pkg upgrade && pkg update
+pkg install git
+pip install requests
+pip install bs4
+git clone https://github.com/sptty-chan/zefbot
+cd zefbot
+python zefbot.py
 fi
 
 if [ $HOOH == UPDATE ]
