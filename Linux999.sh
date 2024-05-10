@@ -319,7 +319,7 @@ sleep 5
 python owlsint.py
 fi
 
-if [ $HOOH == 23 ]
+if [ $HOOH == 24 ]
 then
 clear
 sleep1
