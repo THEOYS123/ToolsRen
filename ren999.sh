@@ -66,8 +66,8 @@ echo -e "               | FOLLOW                                 |"
 echo -e "               | LAPORKAN BUG                           |"
 echo -e "               |________________________________________|"
 echo
-read -p "               PILIH MENU:" ren9999☠️☠️☠️
-if [ $ren9999☠️☠️☠️ == 1 ]
+read -p "               PILIH MENU:" ren9999
+if [ $ren9999 == 1 ]
 then
 clear
 sleep 1
