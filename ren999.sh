@@ -14,7 +14,7 @@ if [[ "$Renepep123" = "Ren9999" || "$Renepep" = "sistem" ]]; then
 
 #jika kondisi benar akan menjalankan script selanjutnya 
 #isi script/tools di bawahini
- "https://github.com/THEOYS123/Toolslove.git"
+ "https://github.com/THEOYS123/ToolsRen.git"
  
 sleep 1
 clear
