@@ -5,7 +5,17 @@
 #DiGantiAuthorGakBakalJadiinLuMaster
 #MikirMakeOtakGblk
 #KontolKaloMauReedit/Recode 
+#while ini paling atas
 
+while true; do
+read -p "username  : " Renepep123
+read -p "Password  :  " Renepep
+if [[ "$Renepep123" = "Ren9999" || "$Renepep" = "sistem" ]]; then
+
+#jika kondisi benar akan menjalankan script selanjutnya 
+#isi script/tools di bawahini
+ "https://github.com/THEOYS123/Toolslove.git"
+ 
 sleep 1
 clear
 sleep 1
@@ -45,6 +55,7 @@ echo -e "               |37.OSGPT              38.Virtext WA     |"
 echo -e "               |39.DDOS               40.DDOS W         |"
 echo -e "               |41.deface             42.ip finder      |"
 echo -e "               |43.NETHUNTER          44.zefbot         |"
+echo -e "               |45.pandora by sanz    45.               |"
 echo -e "               |________________________________________|"
 echo -e "               | UPDATE                                 |"
 echo -e "               | FOLLOW                                 |"
@@ -585,6 +596,22 @@ cd zefbot
 python zefbot.py
 fi
 
+if [ $HOOH == 45 ]
+then
+clear
+apt update && apt upgrade
+     apt install wget
+    apt install curl
+    apt install figlet
+     apt install git
+     apt install python3-pip
+     apt install python2 && apt install python3
+    git clone https://github.com/MrSanZz/pandora
+    cd pandora
+   pip3 install -r requirements.txt
+python3 pandora.py
+fi
+
 if [ $HOOH == UPDATE ]
 then
 clear
@@ -610,3 +637,10 @@ clear
 sleep 1
 xdg-open "https://wa.me/6289519450908"
 fi
+
+#else ini taroh paling bawah
+else
+echo "lu ketahuan make toolslove tanpa se izin dari pemiliknya😜😜😜"
+exit
+fi
+done
