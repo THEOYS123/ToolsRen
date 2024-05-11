@@ -5,8 +5,8 @@
 #DiGantiAuthorGakBakalJadiinLuMaster
 #MikirMakeOtakGblk
 #KontolKaloMauReedit/Recode 
-#while ini paling atas
 
+#while ini paling atas
 while true; do
 read -p "username  : " Renepep123
 read -p "Password  :  " Renepep
@@ -14,22 +14,23 @@ if [[ "$Renepep123" = "Ren9999" || "$Renepep" = "sistem" ]]; then
 
 #jika kondisi benar akan menjalankan script selanjutnya 
 #isi script/tools di bawahini
- "https://github.com/THEOYS123/ToolsRen.git"
- 
+ "https://github.com/THEOYS123/Toolslove.git"
+
+
 sleep 1
 clear
 sleep 1
-echo -e "  ████████╗░█████╗░░█████╗░██╗░░░░░░██████╗░░██╗██╗░░██╗██╗░░██╗██╗"
-echo -e "  ╚══██╔══╝██╔══██╗██╔══██╗██║░░░░░██╔════╝░██╔╝██║░██╔╝██║░██╔╝██║"
-echo -e "  ░░░██║░░░██║░░██║██║░░██║██║░░░░░╚█████╗░██╔╝░██║██╔╝░██║██╔╝░██║"
-echo -e "  ░░░██║░░░██║░░██║██║░░██║██║░░░░░░╚═══██╗███████║███████║███████║"
-echo -e "  ░░░██║░░░╚█████╔╝╚█████╔╝███████╗██████╔╝╚════██║╚════██║╚════██║"
-echo -e "  ░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝╚═════╝░░░░░░╚═╝░░░░░╚═╝░░░░░╚═╝"
+echo -e "  ████████╗░█████╗░░█████╗░██╗░░░░░░██████╗██████╗░███████╗███╗░░██╗"
+echo -e "  ╚══██╔══╝██╔══██╗██╔══██╗██║░░░░░██╔════╝██╔══██╗██╔════╝████╗░██║"
+echo -e "  ░░░██║░░░██║░░██║██║░░██║██║░░░░░╚█████╗░██████╔╝█████╗░░██╔██╗██║"
+echo -e "  ░░░██║░░░██║░░██║██║░░██║██║░░░░░░╚═══██╗██╔══██╗██╔══╝░░██║╚████║"
+echo -e "  ░░░██║░░░╚█████╔╝╚█████╔╝███████╗██████╔╝██║░░██║███████╗██║░╚███║"
+echo -e "  ░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝"
 echo -e " "
 echo
 echo -e "                          By: Ren9999 ☕🗿"
 echo -e "                ________________________________________"
-echo -e "               |         𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐓𝐎𝐎𝐋𝐒𝟒𝟒𝟒          |"
+echo -e "               |         𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐓𝐎𝐎𝐋𝐒𝐑𝐄𝐍         |"
 echo -e "               |                                        |"
 echo -e "               __________________________________________"
 echo -e "               |                                        |"
@@ -55,15 +56,18 @@ echo -e "               |37.OSGPT              38.Virtext WA     |"
 echo -e "               |39.DDOS               40.DDOS W         |"
 echo -e "               |41.deface             42.ip finder      |"
 echo -e "               |43.NETHUNTER          44.zefbot         |"
-echo -e "               |45.pandora by sanz    45.               |"
+echo -e "               |45.DDOS               46.DDOS           |"
+echo -e "               |47.DDOS               48.DDOS           |"
+echo -e "               |49.DDOS               50.DDOS           |"
+echo -e "               |51.DDOS               52.DDOS           |"
 echo -e "               |________________________________________|"
 echo -e "               | UPDATE                                 |"
 echo -e "               | FOLLOW                                 |"
 echo -e "               | LAPORKAN BUG                           |"
 echo -e "               |________________________________________|"
 echo
-read -p "               PILIH MENU:" HOOH
-if [ $HOOH == 1 ]
+read -p "               PILIH MENU:" ren9999☠️☠️☠️
+if [ $ren9999☠️☠️☠️ == 1 ]
 then
 clear
 sleep 1
@@ -78,7 +82,7 @@ pip3 install -r requirements.txt
 python3 anonymous-c2.py
 fi
 
-if [ $HOOH == 3 ]
+if [ $ren9999 == 3 ]
 then
 clear
 sleep 1
@@ -90,21 +94,21 @@ pkg install  git
  python spam.py
 fi
 
-if [ $HOOH == 5 ]
+if [ $ren9999 == 5 ]
 then
 clear
 sleep 1
 xdg-open "https://drive.google.com/file/d/152fTXoG9IEsp1unLH47Ap1mV3AvpsYYX/view?usp=drivesdk"
 fi
 
-if [ $HOOH == 7 ]
+if [ $ren9999 == 7 ]
 then
 clear
 sleep 1
 xdg-open "https://drive.google.com/file/d/14V3b11fDLTNzddSKTdVZiNlDwK7JBTjD/view?usp=drivesdk"
 fi
 
-if [ $HOOH == 9 ]
+if [ $ren9999 == 9 ]
 then
 clear
 sleep 1
@@ -113,7 +117,7 @@ cd zphisher
 bash zphisher.sh
 fi
 
-if [ $HOOH == 11 ]
+if [ $ren9999 == 11 ]
 then
 clear
 sleep 1
@@ -126,14 +130,14 @@ pip2 install -r requirements.txt
 python2 malicious.py
 fi
 
-if [ $HOOH == 2 ]
+if [ $ren9999 == 2 ]
 then
 clear
 sleep 1
 xdg-open "https://www.mediafire.com/file/f52nygbxa8kb580/node_modules.zip/file"
 fi
 
-if [ $HOOH == 4 ]
+if [ $ren9999 == 4 ]
 then
 clear
 sleep 1
@@ -146,7 +150,7 @@ chmod +x install-nethunter-modified
 ./install-nethunter-modified
 fi
 
-if [ $HOOH == 6 ]
+if [ $ren9999 == 6 ]
 then
 clear
 sleep 1
@@ -159,7 +163,7 @@ bash install-desktop-lxqt.sh
 start-desktop
 fi
 
-if [ $HOOH == 8 ]
+if [ $ren9999 == 8 ]
 then
 clear
 sleep 1
@@ -172,7 +176,7 @@ pip install -r requirements.txt
 python run.py
 fi
 
-if [ $HOOH == 10 ]
+if [ $ren9999 == 10 ]
 then
 clear
 sleep 1
@@ -186,7 +190,7 @@ pip install -r requirements.txt
 python main.py
 fi
 
-if [ $HOOH == 12 ]
+if [ $ren9999 == 12 ]
 then
 clear
 sleep 1
@@ -200,7 +204,7 @@ cd Tools-WhatsApp
 python main.py
 fi
 
-if [ $HOOH == 13 ]
+if [ $ren9999 == 13 ]
 then
 clear
 sleep 1
@@ -213,7 +217,7 @@ ls
 python3 DRipper.py
 fi
 
-if [ $HOOH == 14 ]
+if [ $ren9999 == 14 ]
 then
 clear
 sleep 1
@@ -222,7 +226,7 @@ cd TOOLS999
 bash TOOLS999.sh
 fi
 
-if [ $HOOH == 15 ]
+if [ $ren9999 == 15 ]
 then
 clear
 sleep 1
@@ -235,7 +239,7 @@ python3 dx.py
 python3 dx-web.py
 fi
 
-if [ $HOOH == 16 ]
+if [ $ren9999 == 16 ]
 then
 clear
 sleep 1
@@ -247,7 +251,7 @@ cd BLACKV1
 bash BLACKV1.sh
 fi
 
-if [ $HOOH == 17 ]
+if [ $ren9999 == 17 ]
 then
 clear
 sleep 1
@@ -257,7 +261,7 @@ cd hackCCTV
 python3 hackcctv.py
 fi 
 
-if [ $HOOH == 18 ]
+if [ $ren9999 == 18 ]
 then
 clear
 sleep 1
@@ -269,7 +273,7 @@ cd SpamWa
 python3 spam.py
 fi
 
-if [ $HOOH == 19 ]
+if [ $ren9999 == 19 ]
 then
 clear
 sleep 1
@@ -279,7 +283,7 @@ chmod +x webcamphish.sh
 ./webcamphish.sh
 fi
 
-if [ $HOOH == 20 ]
+if [ $ren9999 == 20 ]
 then
 clear
 sleep 1
@@ -291,7 +295,7 @@ ubuntu
 desktop-mod.sh
 fi
 
-if [ $HOOH == 21 ]
+if [ $ren9999 == 21 ]
 then
 clear
 sleep 1
@@ -301,7 +305,7 @@ pip3 install -r requirements.txt
 python3 main.py
 fi
 
-if [ $HOOH == 22 ]
+if [ $ren9999 == 22 ]
 then
 clear
 sleep1
@@ -314,7 +318,7 @@ pip3 install -r install.txt
 python3 brutal.py
 fi
 
-if [ $HOOH == 23 ]
+if [ $ren9999 == 23 ]
 then
 clear
 sleep1
@@ -339,7 +343,7 @@ sleep 5
 python owlsint.py
 fi
 
-if [ $HOOH == 24 ]
+if [ $ren9999 == 24 ]
 then
 clear
 sleep1
@@ -356,7 +360,7 @@ cd BAJINGANv6
 sh BAJINGAN.sh
 fi
 
-if [ $HOOH == 25 ]
+if [ $ren9999 == 25 ]
 then
 clear
 sleep 1
@@ -368,7 +372,7 @@ sh install.sh
 sh sdv.sh
 fi
 
-if [ $HOOH == 26 ]
+if [ $ren9999 == 26 ]
 then
 clear
 sleep 1
@@ -385,7 +389,7 @@ python TZsec7.py
 Spam
 fi
 
-if [ $HOOH == 27 ]
+if [ $ren9999 == 27 ]
 then
 clear
 sleep 1
@@ -402,7 +406,7 @@ make install
 ./main
 fi
 
-if [ $HOOH == 28 ]
+if [ $ren9999 == 28 ]
 then
 clear
 sleep 1
@@ -415,7 +419,7 @@ cd v1.2
 php daijobu.php
 fi
 
-if [ $HOOH == 29 ]
+if [ $ren9999 == 29 ]
 then
 clear
 sleep 1
@@ -428,7 +432,7 @@ cd Lazymux
 python lazymux.py
 fi
 
-if [ $HOOH == 30 ]
+if [ $ren9999 == 30 ]
 then
 clear
 sleep 1
@@ -437,7 +441,7 @@ cd XPHISHER
 bash xphisher.sh
 fi
 
-if [ $HOOH == 31 ]
+if [ $ren9999 == 31 ]
 then
 clear
 sleep 1
@@ -449,7 +453,7 @@ pip install -r requirements.txt
 python WhatsappBot.py
 fi 
 
-if [ $HOOH == 32 ]
+if [ $ren9999 == 32 ]
 then
 clear
 sleep 1
@@ -463,7 +467,7 @@ chmod +x aarch64
 ./aarch64
 fi
 
-if [ $HOOH == 33 ]
+if [ $ren9999 == 33 ]
 then
 clear
 sleep 1
@@ -478,7 +482,7 @@ bash setup
 bash hack_camera.sh
 fi
 
-if [ $HOOH == 34 ]
+if [ $ren9999 == 34 ]
 then
 clear
 sleep 1
@@ -491,7 +495,7 @@ pip install -r install.txt
 python brutal.py
 fi
 
-if [ $HOOH == 35 ]
+if [ $ren9999 == 35 ]
 then
 clear
 sleep 1
@@ -501,7 +505,7 @@ pip install -r requirements.txt
 python3 ddos.py
 fi
 
-if [ $HOOH == 36 ]
+if [ $ren9999 == 36 ]
 then
 clear
 sleep 1
@@ -511,7 +515,7 @@ bash install.sh
 python DDos.py
 fi
 
-if [ $HOOH == 37 ]
+if [ $ren9999 == 37 ]
 then
 clear
 sleep 1
@@ -521,14 +525,14 @@ pip install -r requirements.txt
 python3 main.py
 fi
 
-if [ $HOOH == 38 ]
+if [ $ren9999 == 38 ]
 then
 clear
 sleep 1
 xdg-open "https://www.mediafire.com/file/2gfa9gekyhcihgj/Virtex_WA_Slayer.txt/file"
 fi
 
-if [ $HOOH == 39 ]
+if [ $ren9999 == 39 ]
 then
 clear
 sleep 1
@@ -537,7 +541,7 @@ cd DDos-Blitz
 bash setup.sh
 fi
 
-if [ $HOOH == 40 ]
+if [ $ren9999 == 40 ]
 then
 clear
 sleep 1
@@ -547,7 +551,7 @@ bash setup.sh
 python3 warlof.py --help
 fi
 
-if [ $HOOH == 41 ]
+if [ $ren9999 == 41 ]
 then
 clear
 pkg update
@@ -559,7 +563,7 @@ cd auto-deface
 python2 auto-deface.py
 fi
 
-if [ $HOOH == 42 ]
+if [ $ren9999 == 42 ]
 then
 clear
 apt update
@@ -571,7 +575,7 @@ cd IP-FINDER
 python2 ip-finder.py
 fi
 
-if [ $HOOH == 43 ]
+if [ $ren9999 == 43 ]
 then
 clear
 termux-setup-storage
@@ -584,7 +588,7 @@ cd NETHUNTER
 bash NETHUNTER.sh
 fi
 
-if [ $HOOH == 44 ]
+if [ $ren9999 == 44 ]
 then
 clear
 pkg upgrade && pkg update
@@ -596,23 +600,123 @@ cd zefbot
 python zefbot.py
 fi
 
-if [ $HOOH == 45 ]
+if [ $ren9999 == 45 ]
 then
 clear
-apt update && apt upgrade
-     apt install wget
-    apt install curl
-    apt install figlet
-     apt install git
-     apt install python3-pip
-     apt install python2 && apt install python3
-    git clone https://github.com/MrSanZz/pandora
-    cd pandora
-   pip3 install -r requirements.txt
-python3 pandora.py
+pkg install git
+pkg install python3
+git clone https://github.com/MrSanZz/RevengeC2
+cd RevengeC2
+python3 c2.py
 fi
 
-if [ $HOOH == UPDATE ]
+if [ $ren9999 == 46 ]
+then
+clear
+apt update && apt upgrade && pkg update && pkg upgrade
+pkg install curl
+pkg install wget
+pkg install python3
+pkg install git
+pkg install figlet
+git clone https://github.com/MrSanZz/MuffinC2
+cd MuffinC2
+python3 setup.py
+python3 mc2.py    
+fi
+
+if [ $ren9999 == 47 ]
+then
+clear
+pkg update && apt upgrade
+pkg install git
+pkg install python3
+git clone https://github.com/MrSanZz/starlink-ddos
+cd starlink-ddos
+chmod +x *
+pip3 install -r requirements.txt
+python3 starlink.py  
+fi
+
+if [ $ren9999 == 48 ]
+then
+clear
+git clone https://github.com/BINOD-XD/RXS-DDoS/
+cd RXS-DDoS
+npm i requests
+npm i https-proxy-agent
+npm i crypto-random-string
+npm i events
+npm i fs
+npm i net
+npm i cloudscraper
+npm i request
+npm i hcaptcha-solver
+npm i randomstring
+npm i cluster
+npm i cloudflare-bypasser
+pip3 install -r requirements.txt
+pkg install golang
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+apt-get install ./google-chrome-stable_current_amd64.deb
+ulimit -n 999999
+chmod 777 *
+python3 ddos.py
+fi
+
+if [ $HOOH == 49 ]
+then
+clear
+sleep 1
+termux-setup-storage
+apt update && apt upgrade -y
+pkg install python3
+pkg install rust
+pkg install git
+pkg install python-cryptography
+pip install setuptools
+git clone https://github.com/NamBel12/ToolDDoS.git
+cd ToolDDoS
+pip install -r requirements.txt
+python3 ddos.py    
+fi
+
+if [ $HOOH == 50 ]
+then
+clear
+sleep 1
+git clone https://github.com/Pastlecry/FireLemon 
+    cd FireLemon 
+    pip install -r requirements.txt 
+    python -m pip install -r requirements.txt 
+   python FireLemon.py 
+   python3 FireLemon.py
+fi
+
+if [ $HOOH == 51 ]
+then
+clear
+sleep 1
+apt install git python -y 
+    git clone https://github.com/danitechid/ddos-script 
+    cd ddos-script 
+    pip install requests colorama 
+    python main.py https://example.com 100
+fi
+
+if [ $HOOH == 52 ]
+then
+clear
+sleep 1
+pkg update
+pkg install python3 python3-pip git -y
+git clone https://github.com/LimerBoy/Impulse
+cd Impulse/
+pip3 install -r requirements.txt
+python3 impulse.py --help
+fi
+
+if [ $ren9999 == UPDATE ]
 then
 clear
 sleep 1
@@ -621,7 +725,7 @@ cd ToolsRen
 bash ren999.sh
 fi
 
-if [ $HOOH == FOLLOW ]
+if [ $ren9999 == FOLLOW ]
 then
 clear
 sleep 1
@@ -631,7 +735,7 @@ echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK AKU☺☺☺"
 echo -e " MAKASIH YANG UDAH FOLLOW AKUN TIKTOK AKU☺☺☺"
 fi
 
-if [ $HOOH == LAPORKAN BUG ]
+if [ $ren9999 == LAPORKAN BUG ]
 then
 clear
 sleep 1
@@ -640,7 +744,9 @@ fi
 
 #else ini taroh paling bawah
 else
-echo "lu ketahuan make toolslove tanpa se izin dari pemiliknya😜😜😜"
+echo "lu ketahuan make toolslove tanpa se izin dari pemiliknya😜😜😜
+lu ketahuan make toolslove tanpa se izin dari pemiliknya😜😜😜
+lu ketahuan make toolslove tanpa se izin dari pemiliknya😜😜😜"
 exit
 fi
 done
