@@ -28,44 +28,49 @@ echo -e "  ░░░██║░░░╚█████╔╝╚█████
 echo -e "  ░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝"
 echo -e " "
 echo
-echo -e "                          By: Ren9999 ☕🗿"
-echo -e "                ________________________________________"
-echo -e "               |         𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐓𝐎𝐎𝐋𝐒𝐑𝐄𝐍          |"
-echo -e "               |                                        |"
-echo -e "               __________________________________________"
-echo -e "               |                                        |"
-echo -e "               |1.DDOS                2.BOT WA          |"
-echo -e "               |3.SPAM                4.NETHUNTER M     |"
-echo -e "               |5.BANED WA            6.TERMUX LXQT     |"
-echo -e "               |7.UNBANED WA          8.ELITE2          |"
-echo -e "               |9.HACK SOSMED         10.VIPER          |"
-echo -e "               |11.SPLOIT-MALICIOUS   12.SPAMM          |"
-echo -e "               |13.DDOS R             14.Tools999       |"
-echo -e "               |15.DDOS WEB           16.Tools Black    |"
-echo -e "               |17.hack CCTV          18.SpamWa         |"
-echo -e "               |19.kamera phising     20.ubuntu-mod     |"
-echo -e "               |21.KARMA-DDoS         22.SPAM           |"
-echo -e "               |23.owlsint            24.tools bajingan |"
-echo -e "               |25.Spam               26.spam           |"
-echo -e "               |27.spam               28.DIEJOUBU       |"
-echo -e "               |29.LAZYMUX            30.HACK PIZHER    |"
-echo -e "               |31.bot WA             32.Followes tiktok|"
-echo -e "               |33.champhising        34.spam otp       |"
-echo -e "               |35.DDOS               36.DDOS           |"
-echo -e "               |37.OSGPT              38.Virtext WA     |"
-echo -e "               |39.DDOS               40.DDOS W         |"
-echo -e "               |41.deface             42.ip finder      |"
-echo -e "               |43.NETHUNTER          44.zefbot         |"
-echo -e "               |45.DDOS               46.DDOS           |"
-echo -e "               |47.DDOS               48.DDOS           |"
-echo -e "               |49.DDOS               50.DDOS           |"
-echo -e "               |51.DDOS               52.DDOS           |"
-echo -e "               |________________________________________|"
-echo -e "               | UPDATE                                 |"
-echo -e "               | FOLLOW                                 |"
-echo -e "               | LAPORKAN BUG                           |"
-echo -e "               | 0                                      |"
-echo -e "               |________________________________________|"
+echo
+echo -e "                       𝚅𝙴𝚁𝚂𝙸 𝚄𝙿𝙳𝙰𝚃𝙴 𝚃𝙴𝚁𝙱𝙰𝚁𝚄"
+echo -e "                         𝐁𝐲: 𝐑𝐄𝐍𝟗𝟗𝟗𝟗 ☕🗿"
+echo -e "               ||=======================================||"
+echo -e "               ||        WELCOME TO TOOLSRENv2          ||"
+echo -e "               ||                                       ||"
+echo -e "               ||=======================================||"
+echo -e "               ||                                       ||"
+echo -e "               ||1.DDOS                2.BOT WA         ||"
+echo -e "               ||3.SPAM                4.NETHUNTER M    ||"
+echo -e "               ||5.BANED WA            6.TERMUX LXQT    ||"
+echo -e "               ||7.UNBANED WA          8.ELITE2         ||"
+echo -e "               ||9.HACK SOSMED         10.VIPER         ||"
+echo -e "               ||11.SPLOIT-MALICIOUS   12.SPAMM         ||"
+echo -e "               ||13.DDOS R             14.Tools999      ||"
+echo -e "               ||15.DDOS WEB           16.Tools Black   ||"
+echo -e "               ||17.hack CCTV          18.SpamWa        ||"
+echo -e "               ||19.kamera phising     20.ubuntu-mod    ||"
+echo -e "               ||21.KARMA-DDoS         22.SPAM          ||"
+echo -e "               ||23.owlsint            24.tools bajingan||"
+echo -e "               ||25.Spam               26.spam          ||"
+echo -e "               ||27.spam               28.DIEJOUBU      ||"
+echo -e "               ||29.LAZYMUX            30.HACK PIZHER   ||"
+echo -e "               ||31.bot WA             32.Followes TT   ||"
+echo -e "               ||33.champhising        34.spam otp      ||"
+echo -e "               ||35.DDOS               36.DDOS          ||"
+echo -e "               ||37.OSGPT              38.Virtext WA    ||"
+echo -e "               ||39.DDOS               40.DDOS W        ||"
+echo -e "               ||41.deface             42.ip finder     ||"
+echo -e "               ||43.NETHUNTER          44.zefbot        ||"
+echo -e "               ||45.DDOS               46.DDOS          ||"
+echo -e "               ||47.DDOS               48.DDOS          ||"
+echo -e "               ||49.DDOS               50.DDOS          ||"
+echo -e "               ||51.DDOS               52.DDOS          ||"
+echo -e "               ||53.Ketupat terus      54.DDOS          ||"
+echo -e "               ||55.                   56.              ||"
+echo -e "               ||57.                   58.              ||"
+echo -e "               ||=======================================||"
+echo -e "               || UPDATE                                ||"
+echo -e "               || FOLLOW                                ||"
+echo -e "               || LAPORKAN BUG                          ||"
+echo -e "               || 0                                     ||"
+echo -e "               ||=======================================||"
 echo
 read -p "               PILIH MENU:" ren9999
 if [ $ren9999 == 1 ]
@@ -278,7 +283,7 @@ if [ $ren9999 == 19 ]
 then
 clear
 sleep 1
-git clone https://github.com/jasut1n/WebCamPhishing
+git clone https://github.com/jasut1n/WebCamPhishing.git
 cd WebCamPhishing
 chmod +x webcamphish.sh
 ./webcamphish.sh
@@ -288,7 +293,7 @@ if [ $ren9999 == 20 ]
 then
 clear
 sleep 1
-git clone https://github.com/Hozo999/ubuntu-mod
+git clone https://github.com/Hozo999/ubuntu-mod.git
 cd ubuntu-mod
 chmod 777 ubuntu-mod
 bash ubuntu-mod.sh
@@ -327,7 +332,7 @@ pkg update && pkg upgrade -y
 apt list --upgradable 
 pkg install python -y
 Pkg install git -y
-git clone https://github.com/IccTeam/Owl-sint
+git clone https://github.com/IccTeam/Owl-sint.git
 Install module
 pip install colorama
 pip2 install colorama
@@ -356,7 +361,7 @@ pip2 install termcolor
 pip2 install lolcat
 apt install toilet
 apt install git
-git clone https://github.com/DarknessCyberTeam/BAJINGANv6
+git clone https://github.com/DarknessCyberTeam/BAJINGANv6.git
 cd BAJINGANv6
 sh BAJINGAN.sh
 fi
@@ -384,7 +389,7 @@ pkg install python-pip
 pkg install git
 pip install requests
 pip install rich
-git clone https://github.com/TZSEC7/TZspam
+git clone https://github.com/TZSEC7/TZspam.git
 cd TZspam
 python TZsec7.py
 Spam
@@ -400,7 +405,7 @@ pkg install bash curl wget jq
 pkg install python python-pip
 pkg install make clang
 pkg install git
-git clone https://github.com/Sxp-ID/Brutal-W4
+git clone https://github.com/Sxp-ID/Brutal-W4.git
  cd Brutal-W4
 git pull
 make install
@@ -414,7 +419,7 @@ sleep 1
 pkg upgrade && pkg update
 pkg install php
 pkg install git
-gitclone https://github.com/alintamvanz/diejoubu
+gitclone https://github.com/alintamvanz/diejoubu.git
 cd diejoubu
 cd v1.2
 php daijobu.php
@@ -428,7 +433,7 @@ pkg update && upgrade
 pkg install git
 pkg install python
 pkg install python2
-git clone https://github.com/Gameye98/Lazymux
+git clone https://github.com/Gameye98/Lazymux.git
 cd Lazymux
 python lazymux.py
 fi
@@ -460,7 +465,7 @@ clear
 sleep 1
 apt update -y && apt upgrade -y
 pkg install git python-pip
-git clone https://github.com/RozhakXD/PubTok
+git clone https://github.com/RozhakXD/PubTok.git
 cd PubTok
 python -m pip install -r requirements.txt
 uname -m
@@ -537,7 +542,7 @@ if [ $ren9999 == 39 ]
 then
 clear
 sleep 1
-git clone https://github.com/MIISTERC/DDos-Blitz
+git clone https://github.com/MIISTERC/DDos-Blitz.git
 cd DDos-Blitz
 bash setup.sh
 fi
@@ -559,7 +564,7 @@ pkg update
 pkg upgrade
 pkg install python2
 pkg install git
-git clone http://github.com/nfs-tech-bd/auto-deface
+git clone http://github.com/nfs-tech-bd/auto-deface.git
 cd auto-deface
 python2 auto-deface.py
 fi
@@ -571,7 +576,7 @@ apt update
 apt upgrade
 apt install python2
 apt install git
-git clone http://github.com/nfs-tech-bd/IP-FINDER
+git clone http://github.com/nfs-tech-bd/IP-FINDER.git
 cd IP-FINDER
 python2 ip-finder.py
 fi
@@ -584,7 +589,7 @@ pkg update
 pkg upgrade
 pkg install git
 pkg install wget
-git clone https://github.com/Hozo999/NETHUNTER
+git clone https://github.com/Hozo999/NETHUNTER.git
 cd NETHUNTER
 bash NETHUNTER.sh
 fi
@@ -596,7 +601,7 @@ pkg upgrade && pkg update
 pkg install git
 pip install requests
 pip install bs4
-git clone https://github.com/sptty-chan/zefbot
+git clone https://github.com/sptty-chan/zefbot.git
 cd zefbot
 python zefbot.py
 fi
@@ -606,7 +611,7 @@ then
 clear
 pkg install git
 pkg install python3
-git clone https://github.com/MrSanZz/RevengeC2
+git clone https://github.com/MrSanZz/RevengeC2.git
 cd RevengeC2
 python3 c2.py
 fi
@@ -620,7 +625,7 @@ pkg install wget
 pkg install python3
 pkg install git
 pkg install figlet
-git clone https://github.com/MrSanZz/MuffinC2
+git clone https://github.com/MrSanZz/MuffinC2.git
 cd MuffinC2
 python3 setup.py
 python3 mc2.py    
@@ -632,7 +637,7 @@ clear
 pkg update && apt upgrade
 pkg install git
 pkg install python3
-git clone https://github.com/MrSanZz/starlink-ddos
+git clone https://github.com/MrSanZz/starlink-ddos.git
 cd starlink-ddos
 chmod +x *
 pip3 install -r requirements.txt
@@ -642,7 +647,7 @@ fi
 if [ $ren9999 == 48 ]
 then
 clear
-git clone https://github.com/BINOD-XD/RXS-DDoS/
+git clone https://github.com/BINOD-XD/RXS-DDoS.git
 cd RXS-DDoS
 npm i requests
 npm i https-proxy-agent
@@ -665,7 +670,7 @@ chmod 777 *
 python3 ddos.py
 fi
 
-if [ $HOOH == 49 ]
+if [ $ ren9999 == 49 ]
 then
 clear
 sleep 1
@@ -682,11 +687,11 @@ pip install -r requirements.txt
 python3 ddos.py    
 fi
 
-if [ $HOOH == 50 ]
+if [ $ren9999 == 50 ]
 then
 clear
 sleep 1
-git clone https://github.com/Pastlecry/FireLemon 
+git clone https://github.com/Pastlecry/FireLemon.git
     cd FireLemon 
     pip install -r requirements.txt 
     python -m pip install -r requirements.txt 
@@ -694,27 +699,47 @@ git clone https://github.com/Pastlecry/FireLemon
    python3 FireLemon.py
 fi
 
-if [ $HOOH == 51 ]
+if [ $ren9999 == 51 ]
 then
 clear
 sleep 1
 apt install git python -y 
-    git clone https://github.com/danitechid/ddos-script 
+    git clone https://github.com/danitechid/ddos-script.git
     cd ddos-script 
     pip install requests colorama 
     python main.py https://example.com 100
 fi
 
-if [ $HOOH == 52 ]
+if [ $ren9999 == 52 ]
 then
 clear
 sleep 1
 pkg update
 pkg install python3 python3-pip git -y
-git clone https://github.com/LimerBoy/Impulse
+git clone https://github.com/LimerBoy/Impulse.git
 cd Impulse/
 pip3 install -r requirements.txt
 python3 impulse.py --help
+fi
+
+if [ $ren9999 == 53 ]
+then
+clear
+sleep 1
+pkg update
+pkg upgrade
+apt install curl git ruby
+apt install make clang
+apt install screen
+apt install python
+apt install python-pip mpv
+pip install rich
+pip install rich-cli
+gem install lolcat
+git clone https://github.com/Bayu12345677/Ketupat-Terror.git
+cd Ketupat-Terror
+make setup
+make Run
 fi
 
 if [ $ren9999 == UPDATE ]
