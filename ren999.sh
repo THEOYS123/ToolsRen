@@ -16,63 +16,81 @@ if [[ "$Renepep123" = "then" || "$Renepep" = "then" ]]; then
 #isi script/tools di bawahini
  "https://github.com/THEOYS123/ToolsRen.git"
 
+clear
+blue='\033[34;1m'
+green='\033[32;1m'
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+
 
 sleep 1
-clear
-sleep 1
-echo -e "  ████████╗░█████╗░░█████╗░██╗░░░░░░██████╗██████╗░███████╗███╗░░██╗"
-echo -e "  ╚══██╔══╝██╔══██╗██╔══██╗██║░░░░░██╔════╝██╔══██╗██╔════╝████╗░██║"
-echo -e "  ░░░██║░░░██║░░██║██║░░██║██║░░░░░╚█████╗░██████╔╝█████╗░░██╔██╗██║"
-echo -e "  ░░░██║░░░██║░░██║██║░░██║██║░░░░░░╚═══██╗██╔══██╗██╔══╝░░██║╚████║"
-echo -e "  ░░░██║░░░╚█████╔╝╚█████╔╝███████╗██████╔╝██║░░██║███████╗██║░╚███║"
-echo -e "  ░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝"
-echo -e " "
+echo -e $red"   ████████╗░█████╗░░█████╗░██╗░░░░░░██████╗██████╗░███████╗███╗░░██╗
+                ╚══██╔══╝██╔══██╗██╔══██╗██║░░░░░██╔════╝██╔══██╗██╔════╝████╗░██║
+                ░░░██║░░░██║░░██║██║░░██║██║░░░░░╚█████╗░██████╔╝█████╗░░██╔██╗██║
+                ░░░██║░░░██║░░██║██║░░██║██║░░░░░░╚═══██╗██╔══██╗██╔══╝░░██║╚████║
+                ░░░██║░░░╚█████╔╝╚█████╔╝███████╗██████╔╝██║░░██║███████╗██║░╚███║
+                ░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚══╝
+                ░░░╚═╝░░░░╚════╝░░╚════╝░╚══════╝╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚══
+
+           "
+
+
+
+
+           
+
 echo
 echo
-echo -e "                       𝚅𝙴𝚁𝚂𝙸 𝚄𝙿𝙳𝙰𝚃𝙴 𝚃𝙴𝚁𝙱𝙰𝚁𝚄"
-echo -e "                         𝐁𝐲: 𝐑𝐄𝐍𝟗𝟗𝟗𝟗 ☕🗿"
-echo -e "               ||=======================================||"
-echo -e "               ||        WELCOME TO TOOLSRENv2          ||"
-echo -e "               ||                                       ||"
-echo -e "               ||=======================================||"
-echo -e "               ||                                       ||"
-echo -e "               ||1.DDOS                2.BOT WA         ||"
-echo -e "               ||3.SPAM                4.NETHUNTER M    ||"
-echo -e "               ||5.BANED WA            6.TERMUX LXQT    ||"
-echo -e "               ||7.UNBANED WA          8.ELITE2         ||"
-echo -e "               ||9.HACK SOSMED         10.VIPER         ||"
-echo -e "               ||11.SPLOIT-MALICIOUS   12.SPAMM         ||"
-echo -e "               ||13.DDOS R             14.Tools999      ||"
-echo -e "               ||15.DDOS WEB           16.Tools Black   ||"
-echo -e "               ||17.hack CCTV          18.SpamWa        ||"
-echo -e "               ||19.kamera phising     20.ubuntu-mod    ||"
-echo -e "               ||21.KARMA-DDoS         22.SPAM          ||"
-echo -e "               ||23.owlsint            24.tools bajingan||"
-echo -e "               ||25.Spam               26.spam          ||"
-echo -e "               ||27.spam               28.DIEJOUBU      ||"
-echo -e "               ||29.LAZYMUX            30.HACK PIZHER   ||"
-echo -e "               ||31.bot WA             32.Followes TT   ||"
-echo -e "               ||33.champhising        34.spam otp      ||"
-echo -e "               ||35.DDOS               36.DDOS          ||"
-echo -e "               ||37.OSGPT              38.Virtext WA    ||"
-echo -e "               ||39.DDOS               40.DDOS W        ||"
-echo -e "               ||41.deface             42.ip finder     ||"
-echo -e "               ||43.NETHUNTER          44.zefbot        ||"
-echo -e "               ||45.DDOS               46.DDOS          ||"
-echo -e "               ||47.DDOS               48.DDOS          ||"
-echo -e "               ||49.DDOS               50.DDOS          ||"
-echo -e "               ||51.DDOS               52.DDOS          ||"
-echo -e "               ||53.Ketupat terus      54.DDOS          ||"
-echo -e "               ||55.                   56.              ||"
-echo -e "               ||57.                   58.              ||"
-echo -e "               ||=======================================||"
-echo -e "               || UPDATE                                ||"
-echo -e "               || FOLLOW                                ||"
-echo -e "               || LAPORKAN BUG                          ||"
-echo -e "               || 0                                     ||"
-echo -e "               ||=======================================||"
-echo
-read -p "               PILIH MENU:" ren9999
+echo -e $red"                       𝚅𝙴𝚁𝚂𝙸 𝚄𝙿𝙳𝙰𝚃𝙴 𝚃𝙴𝚁𝙱𝙰𝚁𝚄"
+echo -e $red"                          𝐁𝐲: 𝐑𝐄𝐍𝟗𝟗𝟗𝟗 ☕🗿"
+echo -e $gren"
+                            ||=======================================||
+                            ||        WELCOME TO TOOLSRENv2          ||
+echo -e                     ||                                       ||
+echo -e                     ||=======================================||
+echo -e                     ||                                       ||
+echo -e                     ||1.DDOS                2.BOT WA         ||
+echo -e                     ||3.SPAM                4.NETHUNTER M    ||
+echo -e                     ||5.BANED WA            6.TERMUX LXQT    ||
+echo -e                     ||7.UNBANED WA          8.ELITE2         ||
+echo -e                     ||9.HACK SOSMED         10.VIPER         ||
+echo -e                     ||11.SPLOIT-MALICIOUS   12.SPAMM         ||
+echo -e                     ||13.DDOS R             14.Tools999      ||
+echo -e                     ||15.DDOS WEB           16.Tools Black   ||
+echo -e                     ||17.hack CCTV          18.SpamWa        ||
+echo -e                     ||19.kamera phising     20.ubuntu-mod    ||
+echo -e                     ||21.KARMA-DDoS         22.SPAM          ||
+echo -e                     ||23.owlsint            24.tools bajingan||
+echo -e                     ||25.Spam               26.spam          ||
+echo -e                     ||27.spam               28.DIEJOUBU      ||
+echo -e                     ||29.LAZYMUX            30.HACK PIZHER   ||
+echo -e                     ||31.bot WA             32.Followes TT   ||
+echo -e                     ||33.champhising        34.spam otp      ||
+echo -e                     ||35.DDOS               36.DDOS          ||
+echo -e                     ||37.OSGPT              38.Virtext WA    ||
+echo -e                     ||39.DDOS               40.DDOS W        ||
+echo -e                     ||41.deface             42.ip finder     ||
+echo -e                     ||43.NETHUNTER          44.zefbot        ||
+echo -e                     ||45.DDOS               46.DDOS          ||
+echo -e                     ||47.DDOS               48.DDOS          ||
+echo -e                     ||49.DDOS               50.DDOS          ||
+echo -e                     ||51.DDOS               52.DDOS          ||
+echo -e                     ||53.Ketupat terus      54.DDOS          ||
+echo -e                     ||55.                   56.              ||
+echo -e                     ||57.                   58.              ||
+echo -e                     ||=======================================||
+echo -e                     || UPDATE                                ||
+echo -e                     || FOLLOW                                ||
+echo -e                     || LAPORKAN BUG                          ||
+echo -e                     || 0                                     ||
+echo -e                     ||=======================================||
+
+                               "
+
+read -p $red"               PILIH MENU ☠️☠️☠️:" ren9999
 if [ $ren9999 == 1 ]
 then
 clear
